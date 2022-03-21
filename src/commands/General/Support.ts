@@ -21,7 +21,7 @@ export default class Command extends BaseCommand {
         M.sender.jid,
         `    💙MY MASTER GROUPS💙
        💙*INVITE LINK:*💙 https://chat.whatsapp.com/DCmTEYzj9zn8ZjUYICaIHG
-        💙*MY INSTAGRAM:* 💙 https://instagram.com//bharatkhajnani701`,
+        ,
            MessageType.text
         ))
         const n = [
